@@ -15,7 +15,7 @@ The main problem I came across was adding proportional symbols to the map.
 [Shooting_per_acre_by_census_tracts_in_NYC](Shooting_per_acre_by_census_tracts_in_NYC)
 
 ### Static Map 2
-[Household income in nyc, ACS 2019](Household income in nyc, ACS 2019)
+[Household income in nyc, ACS 2019](https://github.com/raajparikh24/NYCshooting/blob/77dbbec5af80422390c94778ae3095b699c6b096/Household%20income%20in%20nyc,%20ACS%202019.png))
 
 ### Static Map 3
 [Population density in nyc, ACS 2019](Population density in nyc, ACS 2019)
