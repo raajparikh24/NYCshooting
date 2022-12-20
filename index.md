@@ -12,17 +12,17 @@ Based on the analysis, it seems that in new york city walkability index is moder
 The main problem I came across was adding proportional symbols to the map.
 
 ### Static Map 1
-[Shooting_per_acre_by_census_tracts_in_NYC](
+[Shooting_per_acre_by_census_tracts_in_NYC](Shooting_per_acre_by_census_tracts_in_NYC)
 
 ### Static Map 2
-[Household income in nyc, ACS 2019]
+[Household income in nyc, ACS 2019](Household income in nyc, ACS 2019)
 
 ### Static Map 3
-[Population density in nyc, ACS 2019]
+[Population density in nyc, ACS 2019](Population density in nyc, ACS 2019)
 
 ### Interactive map
 
-[Walkability index of NYC]()
+[Walkability index of NYC](shooting.html)
 <iframe src="shooting.html" height="855" width="130%"></iframe>
 
 
