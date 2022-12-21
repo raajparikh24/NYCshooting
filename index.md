@@ -15,7 +15,8 @@ The main problem I came across was adding proportional symbols to the map.
 ![Shooting_per_acre_by_census_tracts_in_NYC](https://user-images.githubusercontent.com/120699110/208794937-d84de796-9891-44df-bd75-d1726d4cb9c8.png)
 
 ### Static Map 2
-[Household income in nyc, ACS 2019](https://github.com/raajparikh24/NYCshooting/blob/51e2e9720237605533cbb74843e9ee936f40e206/Household%20income%20in%20nyc,%20ACS%202019.png)
+![Household income in nyc, ACS 2019](https://user-images.githubusercontent.com/120699110/208795218-dd443eec-6a9b-47ec-ad93-39975fca519e.png)
+
 
 ### Static Map 3
 ![Population density in nyc, ACS 2019](https://user-images.githubusercontent.com/120699110/208795079-d394c20a-04e3-420e-bf4a-298ca12bc7d9.png)
