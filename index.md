@@ -12,7 +12,7 @@ Based on the analysis, it seems that in new york city walkability index is moder
 The main problem I came across was adding proportional symbols to the map.
 
 ### Static Map 1
-[Shooting_per_acre_by_census_tracts_in_NYC](https://github.com/raajparikh24/NYCshooting/blob/b97b5ed5de1b24ffe106ca107e010d324cb1bbcc/Shooting_per_acre_by_census_tracts_in_NYC.png)
+![Shooting_per_acre_by_census_tracts_in_NYC](https://user-images.githubusercontent.com/120699110/208794937-d84de796-9891-44df-bd75-d1726d4cb9c8.png)
 
 ### Static Map 2
 [Household income in nyc, ACS 2019](https://github.com/raajparikh24/NYCshooting/blob/51e2e9720237605533cbb74843e9ee936f40e206/Household%20income%20in%20nyc,%20ACS%202019.png)
